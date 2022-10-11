@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sathiyajith
 - 👀 I’m interested in DevOps, Full Stack Development and Cloud Computing
-- 🌱 I’m currently learning Competetive Programming!
+- 🌱 I’m currently learning JavaFx
 - 💞️ I’m looking to collaborate on Projects that solve reallife problems.
 - 📫 Lets catch up on instagram [@ks_jith19](https://www.instagram.com/ks_jith19/)
 
